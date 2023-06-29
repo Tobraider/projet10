@@ -7,6 +7,9 @@ Lors de la creation de compte pour le mot de passe il faut suivre ces deux regle
  - le mot de passe ne doit pas etre que des chiffres
  - le mot de passe doit faire au moins 8 caractères
 
+Vous trouverez ici un bouton pour acceder a l'api et la doc sur postman :
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/27764954-ffc79fac-b005-4acf-a095-26dabcba075d?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D27764954-ffc79fac-b005-4acf-a095-26dabcba075d%26entityType%3Dcollection%26workspaceId%3D71e4824e-29b7-455f-955c-af6c8c80e8e5)
+
 Pour mettre en place cette application il faut faire les etapes suivantes:
 
 Dans un terminal
